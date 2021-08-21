@@ -1,2 +1,2 @@
 # OnlineJudges_Website
-Our Website link : https://samiahmed-project.000webhostapp.com/index.php
+Our Website link : https://smart-coder-official.000webhostapp.com/
